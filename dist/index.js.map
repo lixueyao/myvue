@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../src/index.js"],"sourcesContent":["let a = \"lixueyao\";\n\nconsole.log(a)"],"names":["a","console","log"],"mappings":";;;;;CAAA,IAAIA,CAAC,GAAG,UAAR;CAEAC,OAAO,CAACC,GAAR,CAAYF,CAAZ;;;;;;"}
